@@ -1,0 +1,2 @@
+ContactName;Address;City;ZipCode;Country;InvoiceNumber;Reference;IssuedDate;DueDate;ItemTitle;ItemDescription;Quantity;ItemAmount;GLAccountCode;TaxName;TaxAmount;Currency;InvoiceTemplate
+;;;;;;;;;;;;;;;;;
